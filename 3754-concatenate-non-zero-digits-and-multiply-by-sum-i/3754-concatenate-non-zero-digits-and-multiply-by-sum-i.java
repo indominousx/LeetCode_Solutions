@@ -1,5 +1,6 @@
 class Solution {
     public long sumAndMultiply(int n) {
+        // Simply converting number to String :)
         String num = n + "";
         long prod=0;
         long sum=0;
