@@ -34,15 +34,15 @@ class Solution {
     // }
      
      // Optimal Approach
-     int l=0;
-     for(int r=0;r<nums.length;r++){
-        if(nums[r]!=0){
-            int temp=nums[r];
-            nums[r]=nums[l];
-            nums[l]=temp;
-            l+=1;
-        }
-     }
+    //  int l=0;
+    //  for(int r=0;r<nums.length;r++){
+    //     if(nums[r]!=0){
+    //         int temp=nums[r];
+    //         nums[r]=nums[l];
+    //         nums[l]=temp;
+    //         l+=1;
+    //     }
+    //  }
     //  Second appraoch
 //     int j=-1;
 //     for(int i=0;i<nums.length;i++){
@@ -60,6 +60,15 @@ class Solution {
 //         j+=1;
 //     }
 //    }
+int l=0;
+for(int r=0;r<nums.length;r++){
+    if(nums[r]!=0){
+        int temp=nums[l];
+        nums[l]=nums[r];
+        nums[r]=temp;
+        l+=1;
+    }
+}
 
 }
 }
