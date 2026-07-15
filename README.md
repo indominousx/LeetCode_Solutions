@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0045-jump-game-ii](https://github.com/indominousx/LeetCode_Solutions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/indominousx/LeetCode_Solutions/tree/master/0055-jump-game) |
+| [0057-insert-interval](https://github.com/indominousx/LeetCode_Solutions/tree/master/0057-insert-interval) |
 | [0283-move-zeroes](https://github.com/indominousx/LeetCode_Solutions/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/indominousx/LeetCode_Solutions/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/indominousx/LeetCode_Solutions/tree/master/0860-lemonade-change) |
