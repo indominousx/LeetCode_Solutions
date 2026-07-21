@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/indominousx/LeetCode_Solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/indominousx/LeetCode_Solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/indominousx/LeetCode_Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2558-take-gifts-from-the-richest-pile](https://github.com/indominousx/LeetCode_Solutions/tree/master/2558-take-gifts-from-the-richest-pile) |
 | [3838-weighted-word-mapping](https://github.com/indominousx/LeetCode_Solutions/tree/master/3838-weighted-word-mapping) |
 ## String
 |  |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [2558-take-gifts-from-the-richest-pile](https://github.com/indominousx/LeetCode_Solutions/tree/master/2558-take-gifts-from-the-richest-pile) |
 | [3838-weighted-word-mapping](https://github.com/indominousx/LeetCode_Solutions/tree/master/3838-weighted-word-mapping) |
 ## Monotonic Stack
 |  |
@@ -172,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/indominousx/LeetCode_Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [1046-last-stone-weight](https://github.com/indominousx/LeetCode_Solutions/tree/master/1046-last-stone-weight) |
+| [2558-take-gifts-from-the-richest-pile](https://github.com/indominousx/LeetCode_Solutions/tree/master/2558-take-gifts-from-the-richest-pile) |
 ## Quickselect
 |  |
 | ------- |
