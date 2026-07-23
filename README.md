@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0057-insert-interval](https://github.com/indominousx/LeetCode_Solutions/tree/master/0057-insert-interval) |
 | [0215-kth-largest-element-in-an-array](https://github.com/indominousx/LeetCode_Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0283-move-zeroes](https://github.com/indominousx/LeetCode_Solutions/tree/master/0283-move-zeroes) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/indominousx/LeetCode_Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0435-non-overlapping-intervals](https://github.com/indominousx/LeetCode_Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/indominousx/LeetCode_Solutions/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/indominousx/LeetCode_Solutions/tree/master/0860-lemonade-change) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/indominousx/LeetCode_Solutions/tree/master/0222-count-complete-tree-nodes) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/indominousx/LeetCode_Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -149,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/indominousx/LeetCode_Solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/indominousx/LeetCode_Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0435-non-overlapping-intervals](https://github.com/indominousx/LeetCode_Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/indominousx/LeetCode_Solutions/tree/master/0455-assign-cookies) |
 | [1331-rank-transform-of-an-array](https://github.com/indominousx/LeetCode_Solutions/tree/master/1331-rank-transform-of-an-array) |
@@ -178,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/indominousx/LeetCode_Solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/indominousx/LeetCode_Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1046-last-stone-weight](https://github.com/indominousx/LeetCode_Solutions/tree/master/1046-last-stone-weight) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/indominousx/LeetCode_Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/indominousx/LeetCode_Solutions/tree/master/2558-take-gifts-from-the-richest-pile) |
@@ -186,4 +190,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/indominousx/LeetCode_Solutions/tree/master/0215-kth-largest-element-in-an-array) |
+## Matrix
+|  |
+| ------- |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/indominousx/LeetCode_Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 <!---LeetCode Topics End-->
