@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/indominousx/LeetCode_Solutions/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/indominousx/LeetCode_Solutions/tree/master/0099-recover-binary-search-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/indominousx/LeetCode_Solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0200-number-of-islands](https://github.com/indominousx/LeetCode_Solutions/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/indominousx/LeetCode_Solutions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/indominousx/LeetCode_Solutions/tree/master/0210-course-schedule-ii) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/indominousx/LeetCode_Solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/indominousx/LeetCode_Solutions/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/indominousx/LeetCode_Solutions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/indominousx/LeetCode_Solutions/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/indominousx/LeetCode_Solutions/tree/master/0547-number-of-provinces) |
@@ -67,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/indominousx/LeetCode_Solutions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/indominousx/LeetCode_Solutions/tree/master/0055-jump-game) |
 | [0057-insert-interval](https://github.com/indominousx/LeetCode_Solutions/tree/master/0057-insert-interval) |
+| [0200-number-of-islands](https://github.com/indominousx/LeetCode_Solutions/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/indominousx/LeetCode_Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0283-move-zeroes](https://github.com/indominousx/LeetCode_Solutions/tree/master/0283-move-zeroes) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/indominousx/LeetCode_Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -214,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/indominousx/LeetCode_Solutions/tree/master/0200-number-of-islands) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/indominousx/LeetCode_Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0733-flood-fill](https://github.com/indominousx/LeetCode_Solutions/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/indominousx/LeetCode_Solutions/tree/master/0994-rotting-oranges) |
@@ -224,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/indominousx/LeetCode_Solutions/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/indominousx/LeetCode_Solutions/tree/master/0547-number-of-provinces) |
 ## Graph Theory
 |  |
