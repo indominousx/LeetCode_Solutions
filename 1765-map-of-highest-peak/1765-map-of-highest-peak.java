@@ -1,3 +1,4 @@
+// Same as 0/1 Matrix
 class Node{
     int xcor;
     int ycor;
