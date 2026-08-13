@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/indominousx/LeetCode_Solutions/tree/master/0733-flood-fill) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/indominousx/LeetCode_Solutions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0994-rotting-oranges](https://github.com/indominousx/LeetCode_Solutions/tree/master/0994-rotting-oranges) |
+| [1162-as-far-from-land-as-possible](https://github.com/indominousx/LeetCode_Solutions/tree/master/1162-as-far-from-land-as-possible) |
 | [1765-map-of-highest-peak](https://github.com/indominousx/LeetCode_Solutions/tree/master/1765-map-of-highest-peak) |
 ## Binary Tree
 |  |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/indominousx/LeetCode_Solutions/tree/master/0994-rotting-oranges) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/indominousx/LeetCode_Solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1046-last-stone-weight](https://github.com/indominousx/LeetCode_Solutions/tree/master/1046-last-stone-weight) |
+| [1162-as-far-from-land-as-possible](https://github.com/indominousx/LeetCode_Solutions/tree/master/1162-as-far-from-land-as-possible) |
 | [1331-rank-transform-of-an-array](https://github.com/indominousx/LeetCode_Solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/indominousx/LeetCode_Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1765-map-of-highest-peak](https://github.com/indominousx/LeetCode_Solutions/tree/master/1765-map-of-highest-peak) |
@@ -194,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/indominousx/LeetCode_Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0542-01-matrix](https://github.com/indominousx/LeetCode_Solutions/tree/master/0542-01-matrix) |
 | [0678-valid-parenthesis-string](https://github.com/indominousx/LeetCode_Solutions/tree/master/0678-valid-parenthesis-string) |
+| [1162-as-far-from-land-as-possible](https://github.com/indominousx/LeetCode_Solutions/tree/master/1162-as-far-from-land-as-possible) |
 ## Enumeration
 |  |
 | ------- |
@@ -229,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/indominousx/LeetCode_Solutions/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/indominousx/LeetCode_Solutions/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/indominousx/LeetCode_Solutions/tree/master/0994-rotting-oranges) |
+| [1162-as-far-from-land-as-possible](https://github.com/indominousx/LeetCode_Solutions/tree/master/1162-as-far-from-land-as-possible) |
 | [1765-map-of-highest-peak](https://github.com/indominousx/LeetCode_Solutions/tree/master/1765-map-of-highest-peak) |
 ## Counting
 |  |
