@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/indominousx/LeetCode_Solutions/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/indominousx/LeetCode_Solutions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/indominousx/LeetCode_Solutions/tree/master/0210-course-schedule-ii) |
+| [0542-01-matrix](https://github.com/indominousx/LeetCode_Solutions/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/indominousx/LeetCode_Solutions/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/indominousx/LeetCode_Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/indominousx/LeetCode_Solutions/tree/master/0662-maximum-width-of-binary-tree) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/indominousx/LeetCode_Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0435-non-overlapping-intervals](https://github.com/indominousx/LeetCode_Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/indominousx/LeetCode_Solutions/tree/master/0455-assign-cookies) |
+| [0542-01-matrix](https://github.com/indominousx/LeetCode_Solutions/tree/master/0542-01-matrix) |
 | [0621-task-scheduler](https://github.com/indominousx/LeetCode_Solutions/tree/master/0621-task-scheduler) |
 | [0733-flood-fill](https://github.com/indominousx/LeetCode_Solutions/tree/master/0733-flood-fill) |
 | [0860-lemonade-change](https://github.com/indominousx/LeetCode_Solutions/tree/master/0860-lemonade-change) |
@@ -188,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/indominousx/LeetCode_Solutions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/indominousx/LeetCode_Solutions/tree/master/0055-jump-game) |
 | [0435-non-overlapping-intervals](https://github.com/indominousx/LeetCode_Solutions/tree/master/0435-non-overlapping-intervals) |
+| [0542-01-matrix](https://github.com/indominousx/LeetCode_Solutions/tree/master/0542-01-matrix) |
 | [0678-valid-parenthesis-string](https://github.com/indominousx/LeetCode_Solutions/tree/master/0678-valid-parenthesis-string) |
 ## Enumeration
 |  |
@@ -221,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/indominousx/LeetCode_Solutions/tree/master/0200-number-of-islands) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/indominousx/LeetCode_Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0542-01-matrix](https://github.com/indominousx/LeetCode_Solutions/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/indominousx/LeetCode_Solutions/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/indominousx/LeetCode_Solutions/tree/master/0994-rotting-oranges) |
 ## Counting
