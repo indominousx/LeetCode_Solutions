@@ -7,10 +7,10 @@ class Solution {
             sum+=str.charAt(i)-'0';
             mul=mul*(str.charAt(i)-'0');
         }
-        System.out.println(sum);
-        System.out.println(mul);
+        // System.out.println(sum);
+        // System.out.println(mul);
         int rem = n%(sum+mul);
-        System.out.println(rem);
+        // System.out.println(rem);
         return rem==0;
     }
 }
