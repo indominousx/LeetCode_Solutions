@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0700-search-in-a-binary-search-tree](https://github.com/indominousx/LeetCode_Solutions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/indominousx/LeetCode_Solutions/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/indominousx/LeetCode_Solutions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
+| [0993-cousins-in-binary-tree](https://github.com/indominousx/LeetCode_Solutions/tree/master/0993-cousins-in-binary-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/indominousx/LeetCode_Solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Depth-First Search
 |  |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0802-find-eventual-safe-states](https://github.com/indominousx/LeetCode_Solutions/tree/master/0802-find-eventual-safe-states) |
 | [0841-keys-and-rooms](https://github.com/indominousx/LeetCode_Solutions/tree/master/0841-keys-and-rooms) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/indominousx/LeetCode_Solutions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
+| [0993-cousins-in-binary-tree](https://github.com/indominousx/LeetCode_Solutions/tree/master/0993-cousins-in-binary-tree) |
 | [1020-number-of-enclaves](https://github.com/indominousx/LeetCode_Solutions/tree/master/1020-number-of-enclaves) |
 | [1971-find-if-path-exists-in-graph](https://github.com/indominousx/LeetCode_Solutions/tree/master/1971-find-if-path-exists-in-graph) |
 ## Breadth-First Search
@@ -58,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0802-find-eventual-safe-states](https://github.com/indominousx/LeetCode_Solutions/tree/master/0802-find-eventual-safe-states) |
 | [0841-keys-and-rooms](https://github.com/indominousx/LeetCode_Solutions/tree/master/0841-keys-and-rooms) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/indominousx/LeetCode_Solutions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
+| [0993-cousins-in-binary-tree](https://github.com/indominousx/LeetCode_Solutions/tree/master/0993-cousins-in-binary-tree) |
 | [0994-rotting-oranges](https://github.com/indominousx/LeetCode_Solutions/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/indominousx/LeetCode_Solutions/tree/master/1020-number-of-enclaves) |
 | [1162-as-far-from-land-as-possible](https://github.com/indominousx/LeetCode_Solutions/tree/master/1162-as-far-from-land-as-possible) |
@@ -78,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0700-search-in-a-binary-search-tree](https://github.com/indominousx/LeetCode_Solutions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/indominousx/LeetCode_Solutions/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/indominousx/LeetCode_Solutions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
+| [0993-cousins-in-binary-tree](https://github.com/indominousx/LeetCode_Solutions/tree/master/0993-cousins-in-binary-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/indominousx/LeetCode_Solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Array
 |  |
