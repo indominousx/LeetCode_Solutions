@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/indominousx/LeetCode_Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/indominousx/LeetCode_Solutions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/indominousx/LeetCode_Solutions/tree/master/0733-flood-fill) |
+| [0743-network-delay-time](https://github.com/indominousx/LeetCode_Solutions/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/indominousx/LeetCode_Solutions/tree/master/0785-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/indominousx/LeetCode_Solutions/tree/master/0802-find-eventual-safe-states) |
 | [0841-keys-and-rooms](https://github.com/indominousx/LeetCode_Solutions/tree/master/0841-keys-and-rooms) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/indominousx/LeetCode_Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/indominousx/LeetCode_Solutions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/indominousx/LeetCode_Solutions/tree/master/0733-flood-fill) |
+| [0743-network-delay-time](https://github.com/indominousx/LeetCode_Solutions/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/indominousx/LeetCode_Solutions/tree/master/0785-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/indominousx/LeetCode_Solutions/tree/master/0802-find-eventual-safe-states) |
 | [0841-keys-and-rooms](https://github.com/indominousx/LeetCode_Solutions/tree/master/0841-keys-and-rooms) |
@@ -246,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/indominousx/LeetCode_Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/indominousx/LeetCode_Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0621-task-scheduler](https://github.com/indominousx/LeetCode_Solutions/tree/master/0621-task-scheduler) |
+| [0743-network-delay-time](https://github.com/indominousx/LeetCode_Solutions/tree/master/0743-network-delay-time) |
 | [1046-last-stone-weight](https://github.com/indominousx/LeetCode_Solutions/tree/master/1046-last-stone-weight) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/indominousx/LeetCode_Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/indominousx/LeetCode_Solutions/tree/master/2558-take-gifts-from-the-richest-pile) |
@@ -285,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/indominousx/LeetCode_Solutions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/indominousx/LeetCode_Solutions/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/indominousx/LeetCode_Solutions/tree/master/0547-number-of-provinces) |
+| [0743-network-delay-time](https://github.com/indominousx/LeetCode_Solutions/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/indominousx/LeetCode_Solutions/tree/master/0785-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/indominousx/LeetCode_Solutions/tree/master/0802-find-eventual-safe-states) |
 | [0841-keys-and-rooms](https://github.com/indominousx/LeetCode_Solutions/tree/master/0841-keys-and-rooms) |
@@ -324,4 +328,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0802-find-eventual-safe-states](https://github.com/indominousx/LeetCode_Solutions/tree/master/0802-find-eventual-safe-states) |
+## Shortest Path
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/indominousx/LeetCode_Solutions/tree/master/0743-network-delay-time) |
+## Dijkstra's Algorithm
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/indominousx/LeetCode_Solutions/tree/master/0743-network-delay-time) |
 <!---LeetCode Topics End-->
