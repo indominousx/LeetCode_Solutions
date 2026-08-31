@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/indominousx/LeetCode_Solutions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/indominousx/LeetCode_Solutions/tree/master/0993-cousins-in-binary-tree) |
 | [1020-number-of-enclaves](https://github.com/indominousx/LeetCode_Solutions/tree/master/1020-number-of-enclaves) |
+| [1631-path-with-minimum-effort](https://github.com/indominousx/LeetCode_Solutions/tree/master/1631-path-with-minimum-effort) |
 | [1971-find-if-path-exists-in-graph](https://github.com/indominousx/LeetCode_Solutions/tree/master/1971-find-if-path-exists-in-graph) |
 ## Breadth-First Search
 |  |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/indominousx/LeetCode_Solutions/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/indominousx/LeetCode_Solutions/tree/master/1020-number-of-enclaves) |
 | [1162-as-far-from-land-as-possible](https://github.com/indominousx/LeetCode_Solutions/tree/master/1162-as-far-from-land-as-possible) |
+| [1631-path-with-minimum-effort](https://github.com/indominousx/LeetCode_Solutions/tree/master/1631-path-with-minimum-effort) |
 | [1765-map-of-highest-peak](https://github.com/indominousx/LeetCode_Solutions/tree/master/1765-map-of-highest-peak) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/indominousx/LeetCode_Solutions/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [1971-find-if-path-exists-in-graph](https://github.com/indominousx/LeetCode_Solutions/tree/master/1971-find-if-path-exists-in-graph) |
@@ -110,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1162-as-far-from-land-as-possible](https://github.com/indominousx/LeetCode_Solutions/tree/master/1162-as-far-from-land-as-possible) |
 | [1331-rank-transform-of-an-array](https://github.com/indominousx/LeetCode_Solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/indominousx/LeetCode_Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1631-path-with-minimum-effort](https://github.com/indominousx/LeetCode_Solutions/tree/master/1631-path-with-minimum-effort) |
 | [1765-map-of-highest-peak](https://github.com/indominousx/LeetCode_Solutions/tree/master/1765-map-of-highest-peak) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/indominousx/LeetCode_Solutions/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/indominousx/LeetCode_Solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -135,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/indominousx/LeetCode_Solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/indominousx/LeetCode_Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [1631-path-with-minimum-effort](https://github.com/indominousx/LeetCode_Solutions/tree/master/1631-path-with-minimum-effort) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -253,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0743-network-delay-time](https://github.com/indominousx/LeetCode_Solutions/tree/master/0743-network-delay-time) |
 | [1046-last-stone-weight](https://github.com/indominousx/LeetCode_Solutions/tree/master/1046-last-stone-weight) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/indominousx/LeetCode_Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1631-path-with-minimum-effort](https://github.com/indominousx/LeetCode_Solutions/tree/master/1631-path-with-minimum-effort) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/indominousx/LeetCode_Solutions/tree/master/2558-take-gifts-from-the-richest-pile) |
 | [2974-minimum-number-game](https://github.com/indominousx/LeetCode_Solutions/tree/master/2974-minimum-number-game) |
 ## Quickselect
@@ -270,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/indominousx/LeetCode_Solutions/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/indominousx/LeetCode_Solutions/tree/master/1020-number-of-enclaves) |
 | [1162-as-far-from-land-as-possible](https://github.com/indominousx/LeetCode_Solutions/tree/master/1162-as-far-from-land-as-possible) |
+| [1631-path-with-minimum-effort](https://github.com/indominousx/LeetCode_Solutions/tree/master/1631-path-with-minimum-effort) |
 | [1765-map-of-highest-peak](https://github.com/indominousx/LeetCode_Solutions/tree/master/1765-map-of-highest-peak) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/indominousx/LeetCode_Solutions/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 ## Counting
@@ -284,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/indominousx/LeetCode_Solutions/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/indominousx/LeetCode_Solutions/tree/master/0785-is-graph-bipartite) |
 | [1020-number-of-enclaves](https://github.com/indominousx/LeetCode_Solutions/tree/master/1020-number-of-enclaves) |
+| [1631-path-with-minimum-effort](https://github.com/indominousx/LeetCode_Solutions/tree/master/1631-path-with-minimum-effort) |
 | [1971-find-if-path-exists-in-graph](https://github.com/indominousx/LeetCode_Solutions/tree/master/1971-find-if-path-exists-in-graph) |
 ## Graph Theory
 |  |
@@ -339,4 +346,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/indominousx/LeetCode_Solutions/tree/master/0743-network-delay-time) |
+| [1631-path-with-minimum-effort](https://github.com/indominousx/LeetCode_Solutions/tree/master/1631-path-with-minimum-effort) |
 <!---LeetCode Topics End-->
