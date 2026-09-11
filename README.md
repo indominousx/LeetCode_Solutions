@@ -361,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0584-find-customer-referee](https://github.com/indominousx/LeetCode_Solutions/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/indominousx/LeetCode_Solutions/tree/master/0595-big-countries) |
 | [0619-biggest-single-number](https://github.com/indominousx/LeetCode_Solutions/tree/master/0619-biggest-single-number) |
+| [1070-product-sales-analysis-iii](https://github.com/indominousx/LeetCode_Solutions/tree/master/1070-product-sales-analysis-iii) |
 | [1075-project-employees-i](https://github.com/indominousx/LeetCode_Solutions/tree/master/1075-project-employees-i) |
 | [1193-monthly-transactions-i](https://github.com/indominousx/LeetCode_Solutions/tree/master/1193-monthly-transactions-i) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/indominousx/LeetCode_Solutions/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
