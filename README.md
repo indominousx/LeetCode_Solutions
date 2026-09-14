@@ -365,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1070-product-sales-analysis-iii](https://github.com/indominousx/LeetCode_Solutions/tree/master/1070-product-sales-analysis-iii) |
 | [1075-project-employees-i](https://github.com/indominousx/LeetCode_Solutions/tree/master/1075-project-employees-i) |
 | [1193-monthly-transactions-i](https://github.com/indominousx/LeetCode_Solutions/tree/master/1193-monthly-transactions-i) |
+| [1251-average-selling-price](https://github.com/indominousx/LeetCode_Solutions/tree/master/1251-average-selling-price) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/indominousx/LeetCode_Solutions/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1683-invalid-tweets](https://github.com/indominousx/LeetCode_Solutions/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/indominousx/LeetCode_Solutions/tree/master/1757-recyclable-and-low-fat-products) |
