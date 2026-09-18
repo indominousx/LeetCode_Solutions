@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/indominousx/LeetCode_Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0045-jump-game-ii](https://github.com/indominousx/LeetCode_Solutions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/indominousx/LeetCode_Solutions/tree/master/0055-jump-game) |
 | [0057-insert-interval](https://github.com/indominousx/LeetCode_Solutions/tree/master/0057-insert-interval) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/indominousx/LeetCode_Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0222-count-complete-tree-nodes](https://github.com/indominousx/LeetCode_Solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/indominousx/LeetCode_Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1631-path-with-minimum-effort](https://github.com/indominousx/LeetCode_Solutions/tree/master/1631-path-with-minimum-effort) |
