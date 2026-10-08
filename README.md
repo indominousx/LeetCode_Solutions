@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/indominousx/LeetCode_Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0127-word-ladder](https://github.com/indominousx/LeetCode_Solutions/tree/master/0127-word-ladder) |
 | [0678-valid-parenthesis-string](https://github.com/indominousx/LeetCode_Solutions/tree/master/0678-valid-parenthesis-string) |
+| [1021-remove-outermost-parentheses](https://github.com/indominousx/LeetCode_Solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/indominousx/LeetCode_Solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/indominousx/LeetCode_Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/indominousx/LeetCode_Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/indominousx/LeetCode_Solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0678-valid-parenthesis-string](https://github.com/indominousx/LeetCode_Solutions/tree/master/0678-valid-parenthesis-string) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/indominousx/LeetCode_Solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1021-remove-outermost-parentheses](https://github.com/indominousx/LeetCode_Solutions/tree/master/1021-remove-outermost-parentheses) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -383,4 +385,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1757-recyclable-and-low-fat-products](https://github.com/indominousx/LeetCode_Solutions/tree/master/1757-recyclable-and-low-fat-products) |
 | [1978-employees-whose-manager-left-the-company](https://github.com/indominousx/LeetCode_Solutions/tree/master/1978-employees-whose-manager-left-the-company) |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/indominousx/LeetCode_Solutions/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/indominousx/LeetCode_Solutions/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
