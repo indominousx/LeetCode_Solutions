@@ -5,7 +5,7 @@ class Solution {
         if(nums.length%(i+1)!=0) continue;
         else {
             res+=nums[i]*nums[i];
-            System.out.println(res);
+            // System.out.println(res);
         }
      }   
      return res;
