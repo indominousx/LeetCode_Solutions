@@ -4,10 +4,8 @@ class Solution {
            if(nums.length==1) return nums[0];
            // for 0 to n-2
            int max1=tabulation(nums,0,nums.length-2);
-
            // for 1 to n-1
            int max2=tabulation(nums,1,nums.length-1);
-
            return Math.max(max1,max2);
 
 
