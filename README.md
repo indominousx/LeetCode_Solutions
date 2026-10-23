@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/indominousx/LeetCode_Solutions/tree/master/0001-two-sum) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/indominousx/LeetCode_Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0045-jump-game-ii](https://github.com/indominousx/LeetCode_Solutions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/indominousx/LeetCode_Solutions/tree/master/0055-jump-game) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/indominousx/LeetCode_Solutions/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/indominousx/LeetCode_Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0127-word-ladder](https://github.com/indominousx/LeetCode_Solutions/tree/master/0127-word-ladder) |
 | [0621-task-scheduler](https://github.com/indominousx/LeetCode_Solutions/tree/master/0621-task-scheduler) |
