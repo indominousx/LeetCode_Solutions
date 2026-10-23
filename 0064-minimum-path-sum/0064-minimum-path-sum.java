@@ -9,10 +9,12 @@ class Solution {
         //         dp[i][j]=-1;
         //     }
         // } 
+        // Trick part calculate sum for the row coming from left
         dp[0][0]=g[0][0];
           for(int i=1;i<m;i++){
             dp[i][0]=dp[i-1][0]+g[i][0];
           }
+          // Trick part calculate sum for column coming from above
           for(int j=1;j<n;j++){
             dp[0][j]=dp[0][j-1]+g[0][j];
           }
