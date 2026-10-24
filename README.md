@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/indominousx/LeetCode_Solutions/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/indominousx/LeetCode_Solutions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/indominousx/LeetCode_Solutions/tree/master/0210-course-schedule-ii) |
+| [0322-coin-change](https://github.com/indominousx/LeetCode_Solutions/tree/master/0322-coin-change) |
 | [0463-island-perimeter](https://github.com/indominousx/LeetCode_Solutions/tree/master/0463-island-perimeter) |
 | [0542-01-matrix](https://github.com/indominousx/LeetCode_Solutions/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/indominousx/LeetCode_Solutions/tree/master/0547-number-of-provinces) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/indominousx/LeetCode_Solutions/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/indominousx/LeetCode_Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0283-move-zeroes](https://github.com/indominousx/LeetCode_Solutions/tree/master/0283-move-zeroes) |
+| [0322-coin-change](https://github.com/indominousx/LeetCode_Solutions/tree/master/0322-coin-change) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/indominousx/LeetCode_Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0435-non-overlapping-intervals](https://github.com/indominousx/LeetCode_Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/indominousx/LeetCode_Solutions/tree/master/0455-assign-cookies) |
@@ -273,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/indominousx/LeetCode_Solutions/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/indominousx/LeetCode_Solutions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/indominousx/LeetCode_Solutions/tree/master/0213-house-robber-ii) |
+| [0322-coin-change](https://github.com/indominousx/LeetCode_Solutions/tree/master/0322-coin-change) |
 | [0435-non-overlapping-intervals](https://github.com/indominousx/LeetCode_Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0509-fibonacci-number](https://github.com/indominousx/LeetCode_Solutions/tree/master/0509-fibonacci-number) |
 | [0542-01-matrix](https://github.com/indominousx/LeetCode_Solutions/tree/master/0542-01-matrix) |
@@ -446,4 +449,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/indominousx/LeetCode_Solutions/tree/master/0062-unique-paths) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/indominousx/LeetCode_Solutions/tree/master/0322-coin-change) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/indominousx/LeetCode_Solutions/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
