@@ -19,10 +19,9 @@ class Solution {
             int steps=memoization(coins,amount-coins[i],dp);
             if(steps!=Integer.MAX_VALUE){
                min=Math.min(min,steps+1);
-            }
-            dp[amount]=min;
-           
+            }          
         }
+        dp[amount]=min;
          return min;
     }
        
