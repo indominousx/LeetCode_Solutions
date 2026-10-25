@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/indominousx/LeetCode_Solutions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/indominousx/LeetCode_Solutions/tree/master/0993-cousins-in-binary-tree) |
 | [1020-number-of-enclaves](https://github.com/indominousx/LeetCode_Solutions/tree/master/1020-number-of-enclaves) |
+| [1254-number-of-closed-islands](https://github.com/indominousx/LeetCode_Solutions/tree/master/1254-number-of-closed-islands) |
 | [1631-path-with-minimum-effort](https://github.com/indominousx/LeetCode_Solutions/tree/master/1631-path-with-minimum-effort) |
 | [1971-find-if-path-exists-in-graph](https://github.com/indominousx/LeetCode_Solutions/tree/master/1971-find-if-path-exists-in-graph) |
 ## Breadth-First Search
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1020-number-of-enclaves](https://github.com/indominousx/LeetCode_Solutions/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/indominousx/LeetCode_Solutions/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1162-as-far-from-land-as-possible](https://github.com/indominousx/LeetCode_Solutions/tree/master/1162-as-far-from-land-as-possible) |
+| [1254-number-of-closed-islands](https://github.com/indominousx/LeetCode_Solutions/tree/master/1254-number-of-closed-islands) |
 | [1631-path-with-minimum-effort](https://github.com/indominousx/LeetCode_Solutions/tree/master/1631-path-with-minimum-effort) |
 | [1765-map-of-highest-peak](https://github.com/indominousx/LeetCode_Solutions/tree/master/1765-map-of-highest-peak) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/indominousx/LeetCode_Solutions/tree/master/1926-nearest-exit-from-entrance-in-maze) |
@@ -125,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-last-stone-weight](https://github.com/indominousx/LeetCode_Solutions/tree/master/1046-last-stone-weight) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/indominousx/LeetCode_Solutions/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1162-as-far-from-land-as-possible](https://github.com/indominousx/LeetCode_Solutions/tree/master/1162-as-far-from-land-as-possible) |
+| [1254-number-of-closed-islands](https://github.com/indominousx/LeetCode_Solutions/tree/master/1254-number-of-closed-islands) |
 | [1331-rank-transform-of-an-array](https://github.com/indominousx/LeetCode_Solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/indominousx/LeetCode_Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1631-path-with-minimum-effort](https://github.com/indominousx/LeetCode_Solutions/tree/master/1631-path-with-minimum-effort) |
@@ -328,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1020-number-of-enclaves](https://github.com/indominousx/LeetCode_Solutions/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/indominousx/LeetCode_Solutions/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1162-as-far-from-land-as-possible](https://github.com/indominousx/LeetCode_Solutions/tree/master/1162-as-far-from-land-as-possible) |
+| [1254-number-of-closed-islands](https://github.com/indominousx/LeetCode_Solutions/tree/master/1254-number-of-closed-islands) |
 | [1631-path-with-minimum-effort](https://github.com/indominousx/LeetCode_Solutions/tree/master/1631-path-with-minimum-effort) |
 | [1765-map-of-highest-peak](https://github.com/indominousx/LeetCode_Solutions/tree/master/1765-map-of-highest-peak) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/indominousx/LeetCode_Solutions/tree/master/1926-nearest-exit-from-entrance-in-maze) |
@@ -343,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/indominousx/LeetCode_Solutions/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/indominousx/LeetCode_Solutions/tree/master/0785-is-graph-bipartite) |
 | [1020-number-of-enclaves](https://github.com/indominousx/LeetCode_Solutions/tree/master/1020-number-of-enclaves) |
+| [1254-number-of-closed-islands](https://github.com/indominousx/LeetCode_Solutions/tree/master/1254-number-of-closed-islands) |
 | [1631-path-with-minimum-effort](https://github.com/indominousx/LeetCode_Solutions/tree/master/1631-path-with-minimum-effort) |
 | [1971-find-if-path-exists-in-graph](https://github.com/indominousx/LeetCode_Solutions/tree/master/1971-find-if-path-exists-in-graph) |
 ## Graph Theory
