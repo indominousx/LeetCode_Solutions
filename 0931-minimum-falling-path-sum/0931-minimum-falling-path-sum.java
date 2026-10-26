@@ -3,20 +3,37 @@ class Solution {
      if(mat[0].length==1) return mat[0][0];   
      int min=Integer.MAX_VALUE;
      int n=mat[0].length;
-     
-    
-    
-    
-    
-    
-    
-    
-    
-     Integer[][] dp = new Integer[n][n];  
-     for(int i=0;i<n;i++){
-      min=Math.min(min,memoization(0,i,mat,dp));
+     int[][] dp = new int[n][n];
+     for(int j=0;j<n;j++){
+        dp[n-1][j]=mat[n-1][j];
      }
-     return min;
+      for(int i=n-2;i>=0;i--){
+        for(int j=0;j<n;j++){
+            int ld;
+            if(j-1<0) ld=Integer.MAX_VALUE;
+            else ld=dp[i+1][j-1];
+            int rd;
+            if(j+1>=n) rd=Integer.MAX_VALUE;
+            else rd=dp[i+1][j+1];
+            int sd=dp[i+1][j];
+            dp[i][j]=mat[i][j]+Math.min(sd,Math.min(ld,rd));
+        }
+      }
+    //   int min=Integer.MAX_VALUE;
+    for(int i=0;i<n;i++){
+      min=Math.min(min,dp[0][i]);
+    }
+    return min;
+    
+    
+    
+    
+    
+    //  Integer[][] dp = new Integer[n][n];  
+    //  for(int i=0;i<n;i++){
+    //   min=Math.min(min,memoization(0,i,mat,dp));
+    //  }
+    //  return min;
 
     //  for(int j=0;j<n;j++){
     //     min=Math.min(min,recursive(0,j,mat));
