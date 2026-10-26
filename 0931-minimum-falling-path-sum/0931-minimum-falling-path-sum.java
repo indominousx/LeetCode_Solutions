@@ -3,6 +3,15 @@ class Solution {
      if(mat[0].length==1) return mat[0][0];   
      int min=Integer.MAX_VALUE;
      int n=mat[0].length;
+     
+    
+    
+    
+    
+    
+    
+    
+    
      Integer[][] dp = new Integer[n][n];  
      for(int i=0;i<n;i++){
       min=Math.min(min,memoization(0,i,mat,dp));
