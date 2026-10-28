@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/indominousx/LeetCode_Solutions/tree/master/0001-two-sum) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/indominousx/LeetCode_Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0045-jump-game-ii](https://github.com/indominousx/LeetCode_Solutions/tree/master/0045-jump-game-ii) |
+| [0046-permutations](https://github.com/indominousx/LeetCode_Solutions/tree/master/0046-permutations) |
 | [0055-jump-game](https://github.com/indominousx/LeetCode_Solutions/tree/master/0055-jump-game) |
 | [0057-insert-interval](https://github.com/indominousx/LeetCode_Solutions/tree/master/0057-insert-interval) |
 | [0063-unique-paths-ii](https://github.com/indominousx/LeetCode_Solutions/tree/master/0063-unique-paths-ii) |
@@ -465,4 +466,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/indominousx/LeetCode_Solutions/tree/master/0322-coin-change) |
+## Backtracking
+|  |
+| ------- |
+| [0046-permutations](https://github.com/indominousx/LeetCode_Solutions/tree/master/0046-permutations) |
 <!---LeetCode Topics End-->
