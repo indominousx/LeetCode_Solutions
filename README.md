@@ -158,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/indominousx/LeetCode_Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0127-word-ladder](https://github.com/indominousx/LeetCode_Solutions/tree/master/0127-word-ladder) |
+| [0383-ransom-note](https://github.com/indominousx/LeetCode_Solutions/tree/master/0383-ransom-note) |
 | [0678-valid-parenthesis-string](https://github.com/indominousx/LeetCode_Solutions/tree/master/0678-valid-parenthesis-string) |
 | [1021-remove-outermost-parentheses](https://github.com/indominousx/LeetCode_Solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/indominousx/LeetCode_Solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/indominousx/LeetCode_Solutions/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/indominousx/LeetCode_Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0127-word-ladder](https://github.com/indominousx/LeetCode_Solutions/tree/master/0127-word-ladder) |
+| [0383-ransom-note](https://github.com/indominousx/LeetCode_Solutions/tree/master/0383-ransom-note) |
 | [0621-task-scheduler](https://github.com/indominousx/LeetCode_Solutions/tree/master/0621-task-scheduler) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/indominousx/LeetCode_Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/indominousx/LeetCode_Solutions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
@@ -356,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0383-ransom-note](https://github.com/indominousx/LeetCode_Solutions/tree/master/0383-ransom-note) |
 | [0621-task-scheduler](https://github.com/indominousx/LeetCode_Solutions/tree/master/0621-task-scheduler) |
 ## Union-Find
 |  |
