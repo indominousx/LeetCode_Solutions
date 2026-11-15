@@ -235,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/indominousx/LeetCode_Solutions/tree/master/0877-stone-game) |
 | [1137-n-th-tribonacci-number](https://github.com/indominousx/LeetCode_Solutions/tree/master/1137-n-th-tribonacci-number) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/indominousx/LeetCode_Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2843-count-symmetric-integers](https://github.com/indominousx/LeetCode_Solutions/tree/master/2843-count-symmetric-integers) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/indominousx/LeetCode_Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/indominousx/LeetCode_Solutions/tree/master/3536-maximum-product-of-two-digits) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/indominousx/LeetCode_Solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -313,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1291-sequential-digits](https://github.com/indominousx/LeetCode_Solutions/tree/master/1291-sequential-digits) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/indominousx/LeetCode_Solutions/tree/master/2778-sum-of-squares-of-special-elements) |
+| [2843-count-symmetric-integers](https://github.com/indominousx/LeetCode_Solutions/tree/master/2843-count-symmetric-integers) |
 ## Number Theory
 |  |
 | ------- |
