@@ -230,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0062-unique-paths](https://github.com/indominousx/LeetCode_Solutions/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/indominousx/LeetCode_Solutions/tree/master/0070-climbing-stairs) |
+| [0292-nim-game](https://github.com/indominousx/LeetCode_Solutions/tree/master/0292-nim-game) |
 | [0509-fibonacci-number](https://github.com/indominousx/LeetCode_Solutions/tree/master/0509-fibonacci-number) |
 | [0523-continuous-subarray-sum](https://github.com/indominousx/LeetCode_Solutions/tree/master/0523-continuous-subarray-sum) |
 | [0877-stone-game](https://github.com/indominousx/LeetCode_Solutions/tree/master/0877-stone-game) |
@@ -497,10 +498,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Minimax
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/indominousx/LeetCode_Solutions/tree/master/0292-nim-game) |
 | [0877-stone-game](https://github.com/indominousx/LeetCode_Solutions/tree/master/0877-stone-game) |
 ## Game Theory
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/indominousx/LeetCode_Solutions/tree/master/0292-nim-game) |
 | [0877-stone-game](https://github.com/indominousx/LeetCode_Solutions/tree/master/0877-stone-game) |
 ## Zero-Sum Game
 |  |
@@ -516,4 +519,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/indominousx/LeetCode_Solutions/tree/master/0523-continuous-subarray-sum) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/indominousx/LeetCode_Solutions/tree/master/0292-nim-game) |
+## Nim Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/indominousx/LeetCode_Solutions/tree/master/0292-nim-game) |
+## Impartial Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/indominousx/LeetCode_Solutions/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
